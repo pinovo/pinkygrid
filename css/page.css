@@ -1,0 +1,71 @@
+html, body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    color: darkgray;
+    margin: 2em;
+}
+
+/* just a small typography */
+p {
+    font-size: 0.8em;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+    border-bottom: dotted 2px black;
+}
+
+a:hover {
+    color: black;
+    border-bottom: solid 2px deeppink;
+}
+
+.code {
+    border: solid 1px deeppink;
+}
+
+/* another grid modification for specific page */
+.container {
+    width: 960px;
+}
+
+.col {
+    margin: 1em;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+/* colors */
+.pink {
+    color: deeppink;
+}
+
+.black {
+    color: black;
+}
+
+.footer {
+    font-size: 0.7em;
+}
+
+/* examples */
+.examplerow {
+    margin: 3px;
+    background-color: darkgray;
+    color: white;
+    border-radius: 3px;
+}
+
+.examplecol {
+    margin: 3px;
+    background-color: hotpink;
+    color: white;
+    border-radius: 3px;
+}
