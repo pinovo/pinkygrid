@@ -14,8 +14,8 @@ i.e.
     <div class="col">in one row.</div>
   </div>
   <div class="row examplerow">
-    <div class="col example25">This is 25% of row width</div>
-    <div class="col examplecol">in one row.</div>
+    <div class="col example25">This is 25% of the right col.</div>
+    <div class="col examplecol">This is right col.</div>
   </div>
 </div>
 ```
